@@ -1,5 +1,5 @@
 # xmlssm
-java xml configuration web project.
+Java xml configuration web project.
 
 # Contact
 Email: chenyangpoppin@gmail.com
